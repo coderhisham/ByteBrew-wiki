@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabFirefoxBrowser",
+      "LiVariable",
+      "🛠",
+      "FabGitAlt",
+      "FabGit"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Extras": "LiStars",
+  "Extras/Assets": "LiFiles",
+  "Extras/Templates": "LiLayoutTemplate",
+  "01. Journals": {
+    "iconName": "LiBookOpenText",
+    "iconColor": "#00bfff"
+  },
+  "02.Technical Notebook": {
+    "iconName": "LiCodeXml",
+    "iconColor": "#00ff62"
+  },
+  "02.Technical Notebook/DevOps/GitHub Actions": "FabGithub",
+  "02. Devops": "🛠",
+  "02. Devops/Git & GitHub": "FabGitAlt",
+  "02. Devops/Git & GitHub/GitHub Actions": "FabGithub",
+  "01. Data Structures & Algorithms": "LiVariable",
+  "03. Web Development": "FabFirefoxBrowser"
+}

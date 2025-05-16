@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "4f6dc60c1b36ddba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e52dc12429a6fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c0687bb147d4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Data Structures & Algorithms/Algorithms/Analysis of Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analysis of Algorithms"
+            }
+          },
+          {
+            "id": "380b6dac00a40ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Data Structures & Algorithms/Algorithms/Asymptotic Notations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asymptotic Notations"
+            }
+          },
+          {
+            "id": "749c223aded8abd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Data Structures & Algorithms/Algorithms/Asymptotic Notations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asymptotic Notations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fadb960ee7776a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81a1b5de7fb9312",
+        "type": "tabs",
+        "dimension": 66.20139581256231,
+        "children": [
+          {
+            "id": "9f6bf6b863756ec0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c3894131de012bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4261b0326fe6b294",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f5eae7b20292a52",
+        "type": "tabs",
+        "dimension": 33.79860418743769,
+        "children": [
+          {
+            "id": "ac8a136f409167a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b91d3c516030f4eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a5710d6e3ddb70",
+        "type": "tabs",
+        "dimension": 64.62715105162525,
+        "children": [
+          {
+            "id": "f10134ebd1703dd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5fdb40693bcd3724",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fa31f25379690aa5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f76f2dd86f0cfc51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7d177d90cf81dab7",
+        "type": "tabs",
+        "dimension": 35.37284894837476,
+        "children": [
+          {
+            "id": "71d60bc9f60a5591",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "9f6bf6b863756ec0",
+  "lastOpenFiles": [
+    "Untitled 1",
+    "01. Data Structures & Algorithms/Algorithms/Analysis of Algorithms.md",
+    "01. Data Structures & Algorithms/Algorithms/Asymptotic Notations.md",
+    "Untitled.canvas",
+    "Analysis F",
+    "Untitled",
+    "01. Data Structures & Algorithms/Algorithms",
+    "01. Data Structures & Algorithms/Data Structures",
+    "01. Data Structures & Algorithms",
+    "03. Web Development",
+    "02. Devops/Git & GitHub/GitHub Actions",
+    "02. Devops/Git & GitHub/Basics",
+    "02. Devops/Git & GitHub",
+    "02. Devops",
+    "02.Technical Notebook/Cloud Computing/01. Introduction to Cloud Computing.md",
+    "01. Journals/01 - Daily Notes/2025-05-03.md",
+    "Extras/Templates/Daily-Journal-Template.md",
+    "02.Technical Notebook/Cloud Computing/AWS/Untitled.md",
+    "02.Technical Notebook/DevOps/GitHub Actions/Introduction to GitHub Actions.md",
+    "2025-05-03.md",
+    "Welcome.md"
+  ]
+}
