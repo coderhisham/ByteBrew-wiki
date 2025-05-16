@@ -1,79 +1,45 @@
+# ☕ bytebrew.wiki
 
-# ☕ ByteBrew Tech Notes
+Welcome to **bytebrew.wiki** — a personal knowledge base where technical insights are steeped, distilled, and poured into Markdown.
 
-Welcome to **ByteBrew**, a curated collection of technical notes brewed over time — one byte at a time.
-
-This Obsidian vault serves as my personal knowledge base for software development, covering everything from systems architecture and DevOps to web development, debugging, and more. It's an evolving space where ideas are distilled, patterns are logged, and learnings are refined.
-
----
-
-<!--
-## 🗂 Structure
-
-The vault is organized by topic, typically structured as:
-
-```
-
-📁 01. Web Development/
-📁 02. Backend Systems/
-📁 03. DevOps/
-📁 04. Design Patterns/
-📁 05. Debugging & Optimization/
-📁 06. Architecture/
-📁 07. Notes & Logs/
-
-````
-
-Each folder contains markdown notes, diagrams, checklists, and references.
-
----
--->
-## 📌 Purpose
-
-- **Capture** insights from daily work, research, or learning
-- **Refactor** scattered bookmarks and memory into reusable notes
-- **Grow** a second brain for faster recall and deeper understanding
-- **Share** notes selectively, when relevant
+This is where bytes turn into brews: concise, evolving notes on software engineering, development patterns, and things I wish I remembered sooner.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 What is this?
 
-- Written in **Markdown**
-- Managed with **[Obsidian](https://obsidian.md)** for linking, tagging, and graph views
-- Version controlled via **Git**
+A second brain for the builder's mind.
 
----
+This wiki is built on Obsidian and versioned with Git. It exists to:
 
-## 🧭 Philosophy
-
-> _“Write it down. Then make it better.”_  
-> — ByteBrew Core Principle
-
-This vault isn't meant to be perfect — it's meant to be useful. Some notes are polished, others are raw. Everything is a work in progress.
+- Capture fleeting knowledge before it evaporates
+- Sharpen understanding through writing
+- Create a reusable mental toolkit
+- Connect ideas across disciplines
 
 ---
 
-## 🚀 Getting Started
+## 🍵 Brew Philosophy
 
-To clone and open the vault in Obsidian:
+> _“Don’t just sip the coffee — understand how it’s brewed.”_
 
-```bash
-git clone https://github.com/yourusername/bytebrew-technotes.git
-````
-
-Then, in Obsidian:
-
-1. Open folder as vault
-2. Enable plugins as needed
-3. Start brewing ☕
+Every note here is a work-in-progress. Some are just seeds, others are steeped and refined. This isn’t a showcase — it’s a lab notebook, a memo pad, a garden of thoughts under continuous fermentation.
 
 ---
 
-## 📬 License
+## ⚙️ Stack
 
-This repository is **personal and not intended for redistribution**. If you'd like to use part of it, feel free to fork and modify for your own use — credits appreciated.
+- **Markdown-first**
+- **Obsidian** for linking and graph-based note-taking
+- **Git** for version control
+- **Human memory** as cache, **bytebrew** as long-term store
 
 ---
 
-Happy hacking, and keep the brew strong. ☕🧠
+## 🛡 License
+
+This is a personal wiki. You’re welcome to draw inspiration, but treat this space like a lab notebook — not a library. Attribution appreciated if shared.
+
+---
+
+> Brew wisely. Think deeply. Document obsessively.
